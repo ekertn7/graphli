@@ -1,1 +1,3 @@
-# graph_lib
+# Graph analyse library
+
+Core functionality coming soon...
